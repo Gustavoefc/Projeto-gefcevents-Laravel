@@ -7,7 +7,7 @@ O Jetstream fornece a implementação para login, registro, verificação de e-m
 e muito mais, com ele é possivel facilmente fazer um sistema de login com middleware.
 
 <h1> Banco de Dados</h1>
-Utiliando a MySQl e a ORM do Laravel, Eloquent, ele faz com que possasmos lidar facilmente com questões com o banco de dados, rotas, sessões, cache, salvar JSON no banco de dados, entre outras coisas,
+Utiliando MySQl e a ORM do Laravel, Eloquent, ele faz com que possamos lidar facilmente com questões com o banco de dados, rotas, sessões, cache, salvar JSON no banco de dados, entre outras coisas,
 neste projeto existe uma relação 1:N entre usuario e eventos e N:N onde um usuario pode ter varios eventos e esse evento pode ter varios participantes.
 
 <h1> Flash Messages </h1>
